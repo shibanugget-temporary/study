@@ -111,5 +111,5 @@ console.log(document.getElementsByTagName('button')[0]); //documentから特定�
 //addEventListener (引数を2つ指定できる)(1つ目:eventのタイプ)(2つ目:関数)
 document.getElementsByTagName('button')[0].addEventListener('click', ()=> {
   //ここに命令を書く
-  window.alert('Javaspriptの講座見ながらConsoleで遊んでます');
+  window.alert('JavaScriptの講座見ながらConsoleで遊んでます');
 });
