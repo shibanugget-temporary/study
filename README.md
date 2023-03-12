@@ -6,3 +6,5 @@
 
 # #2 https://1998ky262.github.io みたいなサイトってどうやって作るのか
 わからん...
+追記 公開できたっぽい？
+https://shibanugget-temporary.github.io/study/
